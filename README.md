@@ -1,3 +1,3 @@
 # Project App
-This repo contains R code for generating an interactive application as part of the final project
-for the _Technical Foundations of Informatics_ course at the UW iSchool.
+R code for generating a Shiny interactive application for showing the relationship of US household income, GDP, and house value. 
+webapp URL: https://jhc95.shinyapps.io/project-app-jhc95/
